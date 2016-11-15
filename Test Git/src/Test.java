@@ -9,7 +9,7 @@ public class Test {
 		System.out.println( "AAA");
 		int i =0;
 		int j=0;
-		int k2 = 0;
+		int k3 = 0;
 		
 	}
 
