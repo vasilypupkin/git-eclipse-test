@@ -8,6 +8,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println( "AAA");
 		int i =0;
+		int j=0;
 		
 	}
 
